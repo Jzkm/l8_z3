@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+To jest plik w którym się coś zmienia! 0_0
+;>
+=======
+To jest plik w którym się coś zmienia! 0_0
+>>>>>>> fd9d4348e9f18d1db7a2b8377b5971534068fbf7

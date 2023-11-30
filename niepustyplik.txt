@@ -1,1 +1,6 @@
-jestem sobie niepustym plikiem tekstowym!
+<<<<<<< HEAD
+jestem sobie niepustym plikiem tekstowym Tutaj też jest zmiana :(
+Hihi ha ha
+=======
+jestem sobie niepustym plikiem tekstowym Tutaj też jest zmiana :(
+>>>>>>> fd9d4348e9f18d1db7a2b8377b5971534068fbf7
